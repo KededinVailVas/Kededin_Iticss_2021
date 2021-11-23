@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kededin itics 2021", "kededin itics 2021\kededin itics 2021.csproj", "{590D1AD3-1537-4A94-89ED-F39C5AC6C334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590D1AD3-1537-4A94-89ED-F39C5AC6C334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590D1AD3-1537-4A94-89ED-F39C5AC6C334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590D1AD3-1537-4A94-89ED-F39C5AC6C334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590D1AD3-1537-4A94-89ED-F39C5AC6C334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2071DAE0-2A01-4D4B-B2A3-CF645B1EDF03}
+	EndGlobalSection
+EndGlobal
